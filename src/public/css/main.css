@@ -1,0 +1,13 @@
+body{
+    background: black;
+    color: white;
+}
+.custom-card {
+    background-color: black; /* Color de fondo negro */
+    border: 2px solid white; /* Borde blanco */
+}
+
+.custom-card .card-body {
+    color: white; /* Color del texto dentro de la tarjeta */
+}
+
